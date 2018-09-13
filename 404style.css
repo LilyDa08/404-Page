@@ -10,9 +10,9 @@ body {
 }
 
 .cadre {
-    border: 3px solid black; 
-    margin-left: 0px;
-    margin-top: 40px;
+    border: 3px solid #162829; 
+    margin-left: 10px;
+    margin-top: 20px;
     padding-bottom: 50px;
     background-color: rgba(40, 82, 83, 0.51);
     width: 35%;
@@ -31,4 +31,23 @@ h2 {
 
 p {
     letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+a {
+    letter-spacing: 2px;
+    color: #2c2c2c;
+    border: 1px solid #162829;
+    background-color: rgba(110, 209, 211, 0.3);
+    padding: 6px 10px;
+    border-radius: 5px;
+}
+
+a:hover {
+    letter-spacing: 2px;
+    color: #2c2c2c;
+    font-style: italic;
+    border: 1px solid #162829;
+    background-color: rgba(40, 82, 83, 0.58);
+    padding: 6px 10px;
+    border-radius: 5px;
 }
