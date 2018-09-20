@@ -1,7 +1,8 @@
 
 Hello,
 
-Take a look at my [visit-Card](https://lilyda08.github.io/404-Page/)
+Take a look at my **[404 error](https://lilyda08.github.io/404-Page/)** page look.
+Hope you like Cats !
 
 September 2018
 
